@@ -1,0 +1,11 @@
+#include "notepad.h"
+
+Notepad::Notepad(QWidget *parent) : QWidget(parent)
+{
+}
+
+void Notepad::load() {
+    QString file
+}
+
+
